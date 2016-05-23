@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "30e98fd5-8dd6-e847-9a5e-d3f7d90c175f++7215" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "30e98fd5-8dd6-e847-9a5e-d3f7d90c175f++7215" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D6F1D677-6708-4BF5-86C9-8D3E5422CCCD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "30e98fd5-8dd6-e847-9a5e-d3f7d90c175f++7215" : "%E7%BE%8E%E6%9C%AF%E9%A6%86-iOS\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "美术馆",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "美术馆.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/192.168.1.200\/svn\/sdo_chn",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "30e98fd5-8dd6-e847-9a5e-d3f7d90c175f++7215"
+    }
+  ]
+}
