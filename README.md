@@ -2,7 +2,7 @@
 A e-commence platform foucus on art gallery and stuffs
 
 ###Preview
-[Imgur](http://i.imgur.com/g9oeX3j.gifv)
+![](http://www.chriscoder.me/gitres/artmuseum.gif)
 
 ###Language
 Objective-C
